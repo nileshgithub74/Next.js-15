@@ -1,0 +1,3 @@
+for dynamic  routes :   [] // this should be used 
+
+e.g:-   [users] -- this is the name of the folder.
