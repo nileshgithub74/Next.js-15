@@ -1,0 +1,2 @@
+Layouts in Next.js help you maintain a consistent structure (like headers, footers, sidebars) across multiple pages.
+

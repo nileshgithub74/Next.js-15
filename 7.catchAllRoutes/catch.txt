@@ -1,0 +1,1 @@
+This is catch-all routing in Next.js, a feature that lets you dynamically match multiple URL segments under a single route.
